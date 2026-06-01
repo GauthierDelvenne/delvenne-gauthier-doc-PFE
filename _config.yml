@@ -1,0 +1,6 @@
+title: Documentation PFE
+description: Documentation technique du projet
+theme: minima
+
+header_pages:
+  - index.md
