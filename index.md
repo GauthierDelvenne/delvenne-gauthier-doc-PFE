@@ -4,6 +4,9 @@ title: Documentation PFE
 ---
 ## Sommaire
 
+### Code source
+[💻 Code source — Picklio](https://github.com/GauthierDelvenne/Picklio)
+
 ### HTML
 - [Headings map](html/headings-map)
 - [Images](html/images)
