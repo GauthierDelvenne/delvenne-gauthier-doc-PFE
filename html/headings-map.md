@@ -3,45 +3,45 @@ layout: page
 title: "Headings map"
 ---
 
-[← Retour au sommaire](/)
+[← Retour au sommaire]({{ site.baseurl }}/)
 # Headings map
 
 ## Accueil
-![texte](/assets/images/headings-map/Accueil.jpg)
+![texte]({{ site.baseurl }}/assets/images/headings-map/Accueil.jpg)
 
 ## Catalogue
-![texte](/assets/images/headings-map/Catalogue.jpg)
+![texte]({{ site.baseurl }}/assets/images/headings-map/Catalogue.jpg)
 
 ## Produit
-![texte](/assets/images/headings-map/Produit.jpg)
+![texte]({{ site.baseurl }}/assets/images/headings-map/Produit.jpg)
 
 ## Commerçant
-![texte](/assets/images/headings-map/Commerçant.jpg)
+![texte]({{ site.baseurl }}/assets/images/headings-map/Commerçant.jpg)
 
 ## Contact
-![texte](/assets/images/headings-map/Contact.jpg)
+![texte]({{ site.baseurl }}/assets/images/headings-map/Contact.jpg)
 
 ## Panier
-![texte](/assets/images/headings-map/Panier.jpg)
+![texte]({{ site.baseurl }}/assets/images/headings-map/Panier.jpg)
 
 ## Slot
-![texte](/assets/images/headings-map/Slot.jpg)
+![texte]({{ site.baseurl }}/assets/images/headings-map/Slot.jpg)
 
 ## Confirmation
-![texte](/assets/images/headings-map/Confirmation.jpg)
+![texte]({{ site.baseurl }}/assets/images/headings-map/Confirmation.jpg)
 
 ## Profil
-![texte](/assets/images/headings-map/Profil.jpg)
+![texte]({{ site.baseurl }}/assets/images/headings-map/Profil.jpg)
 
 ## Commandes
-![texte](/assets/images/headings-map/Commandes.jpg)
+![texte]({{ site.baseurl }}/assets/images/headings-map/Commandes.jpg)
 
 ## Commande-unique
-![texte](/assets/images/headings-map/Commande-unique.jpg)
+![texte]({{ site.baseurl }}/assets/images/headings-map/Commande-unique.jpg)
 
 ## Mentions légales
-![texte](/assets/images/headings-map/Mentions-légales.jpg)
+![texte]({{ site.baseurl }}/assets/images/headings-map/Mentions-légales.jpg)
 
 ## Politique de confidentialité
-![texte](/assets/images/headings-map/Politique-de-confidentialité.jpg)
+![texte]({{ site.baseurl }}/assets/images/headings-map/Politique-de-confidentialité.jpg)
 

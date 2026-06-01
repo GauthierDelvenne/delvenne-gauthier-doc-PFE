@@ -1,6 +1,7 @@
 title: Documentation PFE
 description: Documentation technique du projet
 theme: minima
-
+baseurl: "/delvenne-gauthier-doc-PFE"
+url: "https://gauthierdelvenne.github.io"
 header_pages:
   - index.md

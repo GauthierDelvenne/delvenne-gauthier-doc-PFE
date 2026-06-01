@@ -3,7 +3,7 @@ layout: page
 title: "User Flow"
 ---
 
-[← Retour au sommaire](/)
+[← Retour au sommaire]({{ site.baseurl }}/)
 # User Flow
 
-![texte](/assets/images/user-flow/User-flow.jpg)
+![texte]({{ site.baseurl }}/assets/images/user-flow/User-flow.jpg)

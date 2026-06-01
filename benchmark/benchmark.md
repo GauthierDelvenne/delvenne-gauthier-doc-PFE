@@ -3,7 +3,7 @@ layout: page
 title: "Benchmark"
 ---
 
-[← Retour au sommaire](/)
+[← Retour au sommaire]({{ site.baseurl }}/)
 # Benchmark
 
-![texte](/assets/images/benchmark/benchmarking.jpg)
+![texte]({{ site.baseurl }}/assets/images/benchmark/benchmarking.jpg)

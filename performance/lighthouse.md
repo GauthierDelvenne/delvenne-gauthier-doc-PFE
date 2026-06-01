@@ -3,7 +3,7 @@ layout: page
 title: "Lighthouse"
 ---
 
-[← Retour au sommaire](/)
+[← Retour au sommaire]({{ site.baseurl }}/)
 # Lighthouse
 
 ### Accueil

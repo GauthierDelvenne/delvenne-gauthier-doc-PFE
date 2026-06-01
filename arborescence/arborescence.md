@@ -3,8 +3,8 @@ layout: page
 title: "Arborescence"
 ---
 
-[← Retour au sommaire](/)
+[← Retour au sommaire]({{ site.baseurl }}/)
 
 # Arborescence
 
-![texte](/assets/images/arborescence/arborescence.jpg)
+![texte]({{ site.baseurl }}/assets/images/arborescence/arborescence.jpg)

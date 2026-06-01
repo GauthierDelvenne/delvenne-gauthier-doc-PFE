@@ -3,4 +3,4 @@ layout: page
 title: "Microdata"
 ---
 
-[← Retour au sommaire](/)
+[← Retour au sommaire]({{ site.baseurl }}/)
