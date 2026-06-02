@@ -24,6 +24,9 @@ title: Documentation PFE
 - [Browser testing](test/browser-testing)
 - [Test serveur](test/test-serveur)
 
+### User Tests
+- [User Tests](user-test/user-test.md)
+
 ### Autres
 - [Arborescence](arborescence/arborescence)
 - [Benchmark](benchmark/benchmark)
